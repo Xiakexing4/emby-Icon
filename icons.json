@@ -1,5 +1,5 @@
 {
-  "name": "Emby",
+  "name": "naonao",
   "description": "GitHub: @Xiakexing4",
   "icons": [
     {
@@ -189,6 +189,62 @@
     {
       "name": "ZHIPIANREN",
       "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/ZHIPIANREN.png"
+    },
+     {
+      "name": "JSQ",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/JSQ.png"
+    },
+     {
+      "name": "LILY",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/LILY.png"
+    },
+     {
+      "name": "FYT",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/FYT.png"
+    },
+     {
+      "name": "HKA",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/HKA.png"
+    },
+     {
+      "name": "NTXZ",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/NTXZ.png"
+    },
+     {
+      "name": "awa",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/awa.png"
+    },
+     {
+      "name": "marmot",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/marmot.png"
+    },
+    {
+      "name": "JSQ",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/JSQ.jpg"
+    },
+     {
+      "name": "LILY",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/LILY.jpg"
+    },
+     {
+      "name": "FYT",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/FYT.jpg"
+    },
+     {
+      "name": "HKA",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/HKA.jpg"
+    },
+     {
+      "name": "NTXZ",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/NTXZ.jpg"
+    },
+     {
+      "name": "awa",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/awa.jpg"
+    },
+     {
+      "name": "marmot",
+      "url": "https://raw.githubusercontent.com/Xiakexing4/emby-Icon/main/%E5%9B%BE%E6%A0%87%E5%BA%93/marmot.jpg"
     }
   ]
 }
